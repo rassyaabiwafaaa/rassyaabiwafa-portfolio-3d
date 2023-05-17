@@ -78,12 +78,12 @@ const Works = () => {
         {WebsiteProjects.map((project, index) => (
           <ProjectCard key={`project-${index}`} {...project} index={index} />
         ))}
-        {designProjects.map((project, index) => (
+        {/* {designProjects.map((project, index) => (
           <ProjectCard key={`project-${index}`} {...project} index={index} />
         ))}
         {videoProjects.map((project, index) => (
           <ProjectCard key={`project-${index}`} {...project} index={index} />
-        ))}
+        ))} */}
       </div>
     </>
   );
