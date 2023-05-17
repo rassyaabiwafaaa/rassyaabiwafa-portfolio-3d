@@ -235,46 +235,46 @@ const WebsiteProjects = [
     source_code_link: "https://github.com/rassyaabiwafaaa/gericht-restaurant",
     website_link: "https://gerichtrestaurant-rassyaabiwafa.netlify.app/",
   },
-  {
-    name: "Eatery",
-    description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: eatery,
-    website_link: "https://www.behance.net/gallery/132936271/Food-Delivery-Application-User-Interface-Design",
-  },
-  {
-    name: "Video Portfolio",
-    description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: video,
-    website_link: "https://drive.google.com/drive/folders/1KFcZf-JLstz7r_vPFFdqtWqb45zhPdLV",
-  },
+  // {
+  //   name: "Eatery",
+  //   description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: eatery,
+  //   website_link: "https://www.behance.net/gallery/132936271/Food-Delivery-Application-User-Interface-Design",
+  // },
+  // {
+  //   name: "Video Portfolio",
+  //   description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: video,
+  //   website_link: "https://drive.google.com/drive/folders/1KFcZf-JLstz7r_vPFFdqtWqb45zhPdLV",
+  // },
 ];
 
 const designProjects = [
